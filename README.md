@@ -354,5 +354,3 @@ Future improvements to the lab may include:
 This project demonstrates the deployment and administration of a Windows Active Directory domain environment using common enterprise practices. The lab showcases hands-on experience with directory management, group-based permissions, shared network resources, and centralized configuration using Group Policy.
 
 The environment provides a solid foundation for further experimentation with **enterprise network administration, security policies, and domain infrastructure management**.
-
----
